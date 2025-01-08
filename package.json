@@ -1,4 +1,5 @@
 {
+
   "name": "nike",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +12,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "prettier": "^3.4.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
