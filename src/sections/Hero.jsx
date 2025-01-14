@@ -18,7 +18,7 @@ const Hero = () => {
         </p>
         <h1
           className={
-            "mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82] font-bold "
+            "mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold "
           }
         >
           <span
