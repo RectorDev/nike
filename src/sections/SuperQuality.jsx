@@ -35,6 +35,7 @@ const SuperQuality = () => {
           <Button label={"view detail"} />
         </div>
       </div>
+      1
       <div className={"flex-1 flex justify-between items-center "}>
         <img
           src={shoe8}
